@@ -1,4 +1,4 @@
-# ImmortalWrt Kernel 6.6 firmware for Newifi2
+# ImmortalWrt Kernel 6.6 firmware for MSG1500 X.00
 
 Auto build Openwrt firmware for Newifi2 via GitHub Actions
 
